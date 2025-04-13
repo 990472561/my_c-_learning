@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClInclude Include="head.h" />
     <ClInclude Include="sales_item.h" />
-    <ClInclude Include="xiancheng.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
