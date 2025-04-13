@@ -15,21 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="head.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="sales_item.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="xiancheng.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="sales_item.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
